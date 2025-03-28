@@ -13,6 +13,10 @@ You can contact me at **umitanik3463@gmail.com**.
   </a>
   <a href="https://medium.com/@umitanik" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
+  </a>
+  <a href="https://www.kaggle.com/mitank" target="_blank">
+    <img align="center" src="./icon/kaggle.png" alt="Kaggle" height="30" width="40" />
+  </a>
 </p>
 
 ## Skills
