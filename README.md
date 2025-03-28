@@ -2,7 +2,9 @@
 
 - I’m currently learning Machine Learning and Deep Learning
 
-## 📫 How to Reach Me
+
+
+
 You can contact me at **umitanik3463@gmail.com**.
 
 
